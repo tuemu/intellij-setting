@@ -18,6 +18,10 @@
           <option name="url" value="https://git-gcp.sg.m-daq.net/fliq/transaction-processor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-gcp.sg.m-daq.net/fliq/fx-management.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
