@@ -58,10 +58,6 @@
           <option name="url" value="http://git.sg.m-daq.net" />
           <option name="userName" value="tomohiro" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.sg.m-daq.net/client-gateway/aladdin-processor.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
