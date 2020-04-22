@@ -50,6 +50,14 @@
           <option name="url" value="https://git.fliq.global/fliq/issuer-acquirer-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.sg.m-daq.net/data/holiday-calendar-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.sg.m-daq.net" />
+          <option name="userName" value="tomohiro" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
