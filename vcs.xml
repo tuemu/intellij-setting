@@ -110,6 +110,10 @@
           <option name="url" value="https://git.fliq.global/integration/travel-card-lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.fliq.global/fliq/fliq-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
